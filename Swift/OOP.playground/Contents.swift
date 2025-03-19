@@ -67,3 +67,4 @@ let dog1 = Dog(bestFriend: .male, name: "Roco", age: 10, weight: 20, color: "bla
 
 print(dog1.eat())
 print(dog1.bark())
+
